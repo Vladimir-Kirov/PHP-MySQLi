@@ -1,0 +1,255 @@
+[11-Dec-2014 17:54:37 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/newsdata.php on line 17
+[11-Dec-2014 18:20:11 UTC] PHP Warning:  print_r() expects at most 2 parameters, 3 given in /home/vladckke/public_html/news/news2.php on line 6
+[11-Dec-2014 18:21:32 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/vladckke/public_html/news/news2.php on line 4
+[11-Dec-2014 18:21:46 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/vladckke/public_html/news/news2.php on line 4
+[11-Dec-2014 18:54:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:28:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:29:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:30:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:30:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:31:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:31:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:31:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:32:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:32:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:34:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:34:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:35:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:40:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:46:24 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/vladckke/public_html/news/news.php on line 6
+[11-Dec-2014 20:46:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 23
+[11-Dec-2014 20:47:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 23
+[11-Dec-2014 20:57:15 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 20:59:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 20:59:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 20:59:46 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 21:00:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 21:10:50 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 21:11:41 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 21:13:01 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 21:14:09 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 10
+[11-Dec-2014 21:14:51 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 8
+[11-Dec-2014 21:15:28 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 10
+[12-Dec-2014 16:13:31 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 10
+[12-Dec-2014 16:15:26 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 10
+[12-Dec-2014 16:15:28 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 10
+[12-Dec-2014 16:31:08 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 8
+[12-Dec-2014 16:32:46 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/vladckke/public_html/news/news.php on line 8
+[12-Dec-2014 16:33:05 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 8
+[12-Dec-2014 16:33:35 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/vladckke/public_html/news/news.php on line 8
+[12-Dec-2014 16:34:28 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/vladckke/public_html/news/news.php on line 8
+[12-Dec-2014 16:57:35 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/vladckke/public_html/news/news.php on line 9
+[12-Dec-2014 16:58:14 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/vladckke/public_html/news/news.php on line 9
+[12-Dec-2014 17:04:51 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/vladckke/public_html/news/news.php on line 9
+[12-Dec-2014 17:05:04 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 14
+[12-Dec-2014 17:07:06 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 20
+[12-Dec-2014 17:07:53 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 12
+[12-Dec-2014 17:09:20 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 12
+[12-Dec-2014 18:01:29 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 12
+[12-Dec-2014 18:04:15 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 20
+[12-Dec-2014 18:05:56 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 13
+[12-Dec-2014 18:06:54 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vladckke/public_html/news/news.php on line 13
+[16-Dec-2014 19:50:18 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/vladckke/public_html/news/newsdata.php on line 14
+[17-Dec-2014 20:07:05 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:07:43 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:09:13 UTC] PHP Fatal error:  Call to undefined function news() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:10:33 UTC] PHP Fatal error:  Call to undefined function news() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:11:56 UTC] PHP Fatal error:  Call to undefined function news() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:15:25 UTC] PHP Fatal error:  Call to undefined function news() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:15:37 UTC] PHP Fatal error:  Call to undefined function news() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:16:16 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:16:51 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/news.php on line 25
+[17-Dec-2014 20:24:17 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 13
+[17-Dec-2014 20:28:51 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 14
+[17-Dec-2014 20:29:24 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 14
+[18-Dec-2014 17:02:40 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/vladckke/public_html/news/news.php on line 6
+[18-Dec-2014 17:03:11 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/vladckke/public_html/news/news.php on line 6
+[18-Dec-2014 17:08:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 5
+[18-Dec-2014 17:10:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 5
+[18-Dec-2014 17:10:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 5
+[18-Dec-2014 17:11:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 21
+[18-Dec-2014 17:11:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 21
+[18-Dec-2014 17:12:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 20
+[18-Dec-2014 17:12:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 20
+[18-Dec-2014 17:12:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 19
+[18-Dec-2014 17:12:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 19
+[18-Dec-2014 17:23:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vladckke/public_html/news/news.php on line 15
+[18-Dec-2014 17:24:15 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/vladckke/public_html/news/news.php on line 15
+[18-Dec-2014 17:24:43 UTC] PHP Fatal error:  Call to undefined function news() in /home/vladckke/public_html/news/news.php on line 24
+[18-Dec-2014 17:25:50 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 17:30:04 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/vladckke/public_html/news/news.php on line 15
+[18-Dec-2014 17:30:30 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 17:31:46 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 17:32:16 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 17:32:50 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 17:34:24 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 17:36:05 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:07:39 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:08:49 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:09:50 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:11:42 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:12:52 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:14:02 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:14:03 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:14:04 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:14:05 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:14:06 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:14:50 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:28:49 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:30:43 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:32:36 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:38:45 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/vladckke/public_html/news/news.php on line 13
+[18-Dec-2014 18:39:05 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:47:27 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:48:10 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:53:40 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:55:07 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 18:55:08 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 19:14:02 UTC] PHP Fatal error:  Call to undefined function news5() in /home/vladckke/public_html/news/index.php on line 10
+[18-Dec-2014 19:14:28 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 29
+[18-Dec-2014 19:23:46 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 29
+[18-Dec-2014 19:24:48 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 29
+[18-Dec-2014 19:24:48 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 29
+[18-Dec-2014 19:24:49 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 29
+[18-Dec-2014 19:29:59 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 26
+[18-Dec-2014 19:33:02 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 26
+[18-Dec-2014 20:34:42 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/vladckke/public_html/news/newsdata.php on line 32
+[27-Dec-2014 20:01:51 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:02:47 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:02:49 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:02:50 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:02:51 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:05:23 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:05:25 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:05:26 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:06:32 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:06:33 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:06:37 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:06:39 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:06:39 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:06:40 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1044): Access denied for user 'vladckke'@'localhost' to database 'website' in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:10:12 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'host' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:10:13 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'host' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:11:16 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'host' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:13:05 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'host' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:13:08 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'host' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[27-Dec-2014 20:13:09 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'host' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[28-Dec-2014 15:14:55 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'vladimir' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[28-Dec-2014 15:30:20 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'vladimir' (25) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[28-Dec-2014 15:31:45 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 4
+[28-Dec-2014 15:53:13 UTC] PHP Warning:  mysqli_connect() expects parameter 5 to be long, string given in /home/vladckke/public_html/news/newsdbdata.php on line 6
+[28-Dec-2014 15:53:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 10
+[28-Dec-2014 15:53:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 12
+[28-Dec-2014 15:53:13 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 16
+[28-Dec-2014 15:54:31 UTC] PHP Warning:  mysqli_connect() expects parameter 5 to be long, string given in /home/vladckke/public_html/news/newsdbdata.php on line 6
+[28-Dec-2014 15:54:31 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 10
+[28-Dec-2014 15:54:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 12
+[28-Dec-2014 15:54:31 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 16
+[28-Dec-2014 15:54:33 UTC] PHP Warning:  mysqli_connect() expects parameter 5 to be long, string given in /home/vladckke/public_html/news/newsdbdata.php on line 6
+[28-Dec-2014 15:54:33 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 10
+[28-Dec-2014 15:54:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 11
+[28-Dec-2014 15:54:33 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 15:55:24 UTC] PHP Warning:  mysqli_connect() expects parameter 5 to be long, string given in /home/vladckke/public_html/news/newsdbdata.php on line 6
+[28-Dec-2014 15:55:24 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 10
+[28-Dec-2014 15:55:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 11
+[28-Dec-2014 15:55:24 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 15:55:25 UTC] PHP Warning:  mysqli_connect() expects parameter 5 to be long, string given in /home/vladckke/public_html/news/newsdbdata.php on line 6
+[28-Dec-2014 15:55:25 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 10
+[28-Dec-2014 15:55:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 11
+[28-Dec-2014 15:55:25 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 15:58:13 UTC] PHP Warning:  mysqli_connect() expects parameter 5 to be long, string given in /home/vladckke/public_html/news/newsdbdata.php on line 6
+[28-Dec-2014 15:58:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 10
+[28-Dec-2014 15:58:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 11
+[28-Dec-2014 15:58:13 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 16:13:06 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:14:03 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:15:03 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:15:42 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:15:44 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:17:54 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:17:55 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:17:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:18:27 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 35
+[28-Dec-2014 16:21:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 36
+[28-Dec-2014 16:21:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 37
+[28-Dec-2014 16:22:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 37
+[28-Dec-2014 16:22:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 40
+[28-Dec-2014 16:22:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 40
+[28-Dec-2014 16:22:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 40
+[28-Dec-2014 16:22:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vladckke/public_html/news/newsdbdata.php on line 40
+[28-Dec-2014 16:26:42 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 32
+[28-Dec-2014 16:27:22 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 33
+[28-Dec-2014 16:27:23 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 33
+[28-Dec-2014 16:32:02 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 33
+[28-Dec-2014 16:32:50 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 36
+[28-Dec-2014 16:37:22 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 38
+[28-Dec-2014 16:41:25 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 39
+[28-Dec-2014 16:42:25 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 27
+[28-Dec-2014 16:42:28 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 27
+[28-Dec-2014 16:42:46 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 27
+[28-Dec-2014 16:49:23 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 28
+[28-Dec-2014 16:49:25 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 28
+[28-Dec-2014 16:50:31 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/vladckke/public_html/news/newsdbdata.php on line 29
+[28-Dec-2014 16:52:12 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 43
+[28-Dec-2014 16:53:41 UTC] PHP Parse error:  syntax error, unexpected $end in /home/vladckke/public_html/news/newsdbdata.php on line 43
+[28-Dec-2014 16:53:43 UTC] PHP Fatal error:  Call to undefined function db_get_contacts() in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:55:16 UTC] PHP Fatal error:  Call to undefined function db_get_contacts() in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:55:22 UTC] PHP Fatal error:  Call to undefined function db_get_contacts() in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:55:40 UTC] PHP Fatal error:  Call to undefined function db_get_contacts() in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:55:51 UTC] PHP Warning:  Missing argument 5 for db_get_res(), called in /home/vladckke/public_html/news/newsdbdata.php on line 34 and defined in /home/vladckke/public_html/news/newsdbdata.php on line 14
+[28-Dec-2014 16:55:51 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 16:56:20 UTC] PHP Fatal error:  Call to undefined function db_get_contacts() in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:56:22 UTC] PHP Fatal error:  Call to undefined function db_get_contacts() in /home/vladckke/public_html/news/newsdbdata.php on line 34
+[28-Dec-2014 16:57:13 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:01:06 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:01:48 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:02:59 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:03:03 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:03:33 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 19
+[28-Dec-2014 17:03:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 21
+[28-Dec-2014 17:03:33 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 25
+[28-Dec-2014 17:04:49 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 19
+[28-Dec-2014 17:04:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 21
+[28-Dec-2014 17:04:49 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 25
+[28-Dec-2014 17:05:07 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 19
+[28-Dec-2014 17:05:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 21
+[28-Dec-2014 17:05:07 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 25
+[28-Dec-2014 17:08:43 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 19
+[28-Dec-2014 17:08:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 21
+[28-Dec-2014 17:08:43 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 25
+[28-Dec-2014 17:10:14 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 19
+[28-Dec-2014 17:10:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 21
+[28-Dec-2014 17:10:14 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 25
+[28-Dec-2014 17:10:22 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 19
+[28-Dec-2014 17:10:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vladckke/public_html/news/newsdbdata.php on line 21
+[28-Dec-2014 17:10:22 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/vladckke/public_html/news/newsdbdata.php on line 25
+[28-Dec-2014 17:10:53 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:13:54 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:16:21 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:16:22 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:16:55 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:19:21 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:21:51 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:24:00 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:24:25 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:24:26 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:27:03 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:27:40 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:27:56 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/vladckke/public_html/news/newsdbdata.php on line 16
+[28-Dec-2014 17:29:04 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:29:38 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:32:48 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'vladckke_root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:33:04 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'vladckke_root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:35:22 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'vladckke_root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:35:23 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'vladckke_root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:35:35 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:35:53 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'vladckke_root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:36:19 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'vladimir'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 17:36:50 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 18:00:39 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 18:00:52 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 18:10:09 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 18:10:20 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 18:10:27 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[28-Dec-2014 18:10:29 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
+[29-Dec-2014 18:22:12 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vladckke/public_html/news/newsdbdata.php on line 15
